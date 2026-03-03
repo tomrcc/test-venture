@@ -1,4 +1,9 @@
 source: src
+markdown:
+  engine: commonmark
+  options:
+    xhtml: false
+    breaks: false
 paths:
   static: ""
   uploads: assets/uploads
